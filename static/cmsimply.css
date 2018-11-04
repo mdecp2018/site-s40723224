@@ -2,8 +2,8 @@
   position: relative;
 }
 header{
-  background: #ccc;
-  padding: 20px;
+  background-image:url(https://breeze-assets.breeze.com.tw/shop/thumb_7905_logo_retailer_1x.png);
+ padding: 35px;
 }
 confmenu
 {
@@ -201,6 +201,6 @@ background-color: white;
 width: 195px;
 }
 body {
-  margin-bottom: 120px;
-}
+ background-image:url(https://ppt.cc/fgVzBx@.jpg);
+ margin-bottom: 120px;
 
