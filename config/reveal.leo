@@ -21,8 +21,32 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20181104163014.1"><vh>封面投影片</vh>
+<v t="leo.20181104163014.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181104163512.1"><vh>封面投影片</vh>
+<v t="leo.20181104163512.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181104163648.1"><vh>封面投影片</vh>
+<v t="leo.20181104163648.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181104163650.1"><vh>封面投影片</vh>
+<v t="leo.20181104163650.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181104163553.1"><vh>封面投影片</vh>
+<v t="leo.20181104163553.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181104163601.1"><vh>封面投影片</vh>
+<v t="leo.20181104163601.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181104163638.1"><vh>封面投影片</vh>
+<v t="leo.20181104163638.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181104163634.1"><vh>封面投影片</vh>
+<v t="leo.20181104163634.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -124,15 +148,19 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 學習簡報
+<t tx="leo.20180827201621.10">### Week2
 
-### 虎科大機械設計工程系
+說明如何以Share X 錄影 以及如何管理CMSimply作業倉儲
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
+說明如何管理網際投影片和網誌
 
-[2018 Fall 分組網誌](./../blog/index.html)
+開啟reveal方式:site-s407232XX&gt;config&gt;reveal.leo
+
+找到檔案後使用LEO開啟即可編輯投影片
+
+開啟網誌方式&gt;site-s407232XX&gt;config&gt;pelican.leo
+
+找到檔案後使用LEO開啟即可編輯網誌
 
 
 </t>
@@ -325,6 +353,182 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181104163014.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104163014.2">## 學習簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181104163512.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104163512.2">### Week3
+
+git的基本操作練習
+
+使用過的指令:
+
+git push
+
+git clone
+
+git add .
+
+git commit -m"   "
+
+git checkout
+
+git branch
+
+git log
+
+git log --oneline --graph --all
+
+git checkout master
+
+git merge
+
+
+
+</t>
+<t tx="leo.20181104163553.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104163553.2">### Week6
+
+Blog管理方法
+
+開啟Leo後打開config裡的pelican.io
+
+然後點選goto
+
+即可打開Blog</t>
+<t tx="leo.20181104163601.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104163601.2">### Week7
+
+升級CMSimfly內的flaskapp.py方法
+
+首先先至學習網站mde.tw內的18CP
+
+找到工具 點選CMSimfly
+
+在下方尋找flaskapp.py後點選Raw 
+
+全選後打開自己的flaskapp.py貼上
+
+最後儲存後push即可完成</t>
+<t tx="leo.20181104163634.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104163634.2">### Week9</t>
+<t tx="leo.20181104163638.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104163638.2">### Week8
+
+修改背景方法
+
+打開位於site-s407232XX內的Static裡的cmsimply.css
+
+在header以及body的括號內貼上圖檔網址
+
+儲存後在8443內F5即可完成</t>
+<t tx="leo.20181104163648.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104163648.2">### Week4
+
+利用靜態修改推送到動態
+
+修改標題的方法
+
+首先打開近端修改完標題後利用git add. git commit -m "_____"
+
+最後git push推送到遠端即可完成
+
+
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181104163650.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104163650.2">### Week5
+
+修改標題方法
+
+利用Leo Editor開啟reveal.leo後
+
+打開位於site-s407232XX內靜態的http-server. py
+
+找到與標題相符的文字來修改投影片的標題
+
+儲存後push即可完成
+
+
+
 </t>
 </tnodes>
 </leo_file>
